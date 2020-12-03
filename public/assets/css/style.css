@@ -17,4 +17,13 @@ li {
   .form-group {
     margin-bottom: 5px;
   }
+
+  .jumbotron{
+      background-color: #ffc107;
+      margin: 0px;
+  }
   
+  .card{
+      background: bisque;
+      margin: 2px;
+  }
